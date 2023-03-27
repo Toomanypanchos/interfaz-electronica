@@ -1,4 +1,4 @@
-# interfaz-electronica
+# interfaz-electronica-Medianta-Arduino 
 sesiones Arduino 
 
 // primer codigo 
